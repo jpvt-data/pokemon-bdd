@@ -17,3 +17,6 @@ __pycache__/
 
 # Fichiers Google Sheets locaux
 *.gsheet
+
+#csv
+data/processed/*.csv
