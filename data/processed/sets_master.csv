@@ -1,20 +1,20 @@
-﻿id_set,code_set,code_tcgdex,serie,jeu,nom_fr,nom_en,nom_ja,date_sortie,nb_cartes,packs,source_nom_fr,source_nb
-SET-PKT-A1,A1,A1,A,pocket,Puissance Génétique,Genetic Apex,最強の遺伝子,2024-10-30,286,"Charizard, Mewtwo, Pikachu",tcgdex,pokekalos
-SET-PKT-PROMO-A,PROMO-A,P-A,A,pocket,Promo-A,Promo A,,2024-10-30,117,"Vol. 1, Vol. 2, Vol. 3, Vol. 4, Vol. 5, Vol. 6, Vol. 7, Vol. 8, Vol. 9, Vol. 10, Vol. 11, Vol. 12, Vol. 13",tcgdex,pokekalos
-SET-PKT-A1a,A1a,A1a,A,pocket,L’Île Fabuleuse,Mythical Island,幻想のいる島,2024-12-17,86,Mew,tcgdex,pokekalos
-SET-PKT-A2,A2,A2,A,pocket,Choc Spatio-Temporel,Space-Time Smackdown,,2025-01-29,207,"Dialga, Palkia",tcgdex,pokekalos
-SET-PKT-A2a,A2a,A2a,A,pocket,Lumière Triomphale,Triumphant Light,,2025-02-28,96,Arceus,tcgdex,pokekalos
-SET-PKT-A2b,A2b,A2b,A,pocket,Réjouissances Rayonnantes,Shining Revelry,,2025-03-27,111,Shining,tcgdex,pokekalos
-SET-PKT-A3,A3,A3,A,pocket,Gardiens Astraux,Celestial Guardians,,2025-04-30,239,"Lunala, Solgaleo",tcgdex,pokekalos
-SET-PKT-A3a,A3a,A3a,A,pocket,Crise Interdimensionnelle,Extradimensional Crisis,,2025-05-29,103,Extradimensional,tcgdex,pokekalos
-SET-PKT-A3b,A3b,A3b,A,pocket,La Clairière d'Évoli,Eevee Grove,,2025-06-26,107,Eevee,tcgdex,pokekalos
-SET-PKT-A4,A4,A4,A,pocket,Sagesse Entre Ciel et Mer,Wisdom of Sea and Sky,,2025-07-30,241,"Ho-Oh, Lugia",tcgdex,pokekalos
-SET-PKT-A4a,A4a,A4a,A,pocket,Source Secrète,Secluded Springs,,2025-08-28,105,Secluded,tcgdex,pokekalos
-SET-PKT-A4b,A4b,A4b,A,pocket,Booster de Luxe ex,Deluxe Pack: ex,,2025-09-30,379,Deluxe,pokekalos,pokekalos
-SET-PKT-B1,B1,B1,B,pocket,Méga-Ascension,Mega Rising,,2025-10-30,331,"Mega Altaria, Mega Blaziken, Mega Gyarados",tcgdex,pokekalos
-SET-PKT-PROMO-B,PROMO-B,P-B,B,pocket,Promo-B,Promo B,,2025-10-30,62,"B Series Vol. 1, B Series Vol. 2, B Series Vol. 3",pokekalos,pokekalos
-SET-PKT-B1a,B1a,B1a,B,pocket,Embrasement Écarlate,Crimson Blaze,,2025-12-17,103,Crimson Blaze,tcgdex,pokekalos
-SET-PKT-B2,B2,B2,B,pocket,Parade Onirique,Fantastical Parade,,2026-01-29,234,Gardevoir,tcgdex,pokekalos
-SET-PKT-B2a,B2a,B2a,B,pocket,Merveilles de Paldea,Paldean Wonders,,2026-02-26,131,Paldean,tcgdex,pokekalos
-SET-PKT-B2b,B2b,B2b,B,pocket,Méga-Rayonnement,Mega Shine,,2026-03-26,117,Mega Shine,pokekalos,pokekalos
-SET-PKT-B3,B3,B3,B,pocket,Aura Palpitante,Pulsing Aura,,2026-04-28,234,Pulsing Aura,pokekalos,pokekalos
+﻿id_set,code_set,code_tcgdex,serie,jeu,nom_fr,nom_en,nom_ja,date_sortie,nb_cartes,packs,slug_pokekalos,source_nom_fr,source_nb
+SET-PKT-A1,A1,A1,A,pocket,Puissance Génétique,Genetic Apex,最強の遺伝子,2024-10-30,286,"Charizard, Mewtwo, Pikachu",puissance-genetique,tcgdex,pokekalos
+SET-PKT-PROMO-A,PROMO-A,P-A,A,pocket,Promo-A,Promo A,,2024-10-30,117,"Vol. 1, Vol. 2, Vol. 3, Vol. 4, Vol. 5, Vol. 6, Vol. 7, Vol. 8, Vol. 9, Vol. 10, Vol. 11, Vol. 12, Vol. 13",promo-a,tcgdex,pokekalos
+SET-PKT-A1a,A1a,A1a,A,pocket,L’Île Fabuleuse,Mythical Island,幻想のいる島,2024-12-17,86,Mew,l-ile-fabuleuse,tcgdex,pokekalos
+SET-PKT-A2,A2,A2,A,pocket,Choc Spatio-Temporel,Space-Time Smackdown,,2025-01-29,207,"Dialga, Palkia",choc-spatio-temporel,tcgdex,pokekalos
+SET-PKT-A2a,A2a,A2a,A,pocket,Lumière Triomphale,Triumphant Light,,2025-02-28,96,Arceus,lumiere-triomphale,tcgdex,pokekalos
+SET-PKT-A2b,A2b,A2b,A,pocket,Réjouissances Rayonnantes,Shining Revelry,,2025-03-27,111,Shining,rejouissances-rayonnantes,tcgdex,pokekalos
+SET-PKT-A3,A3,A3,A,pocket,Gardiens Astraux,Celestial Guardians,,2025-04-30,239,"Lunala, Solgaleo",gardiens-astraux,tcgdex,pokekalos
+SET-PKT-A3a,A3a,A3a,A,pocket,Crise Interdimensionnelle,Extradimensional Crisis,,2025-05-29,103,Extradimensional,crise-interdimensionnelle,tcgdex,pokekalos
+SET-PKT-A3b,A3b,A3b,A,pocket,La Clairière d'Évoli,Eevee Grove,,2025-06-26,107,Eevee,la-clairiere-d-evoli,tcgdex,pokekalos
+SET-PKT-A4,A4,A4,A,pocket,Sagesse Entre Ciel et Mer,Wisdom of Sea and Sky,,2025-07-30,241,"Ho-Oh, Lugia",sagesse-entre-ciel-et-mer,tcgdex,pokekalos
+SET-PKT-A4a,A4a,A4a,A,pocket,Source Secrète,Secluded Springs,,2025-08-28,105,Secluded,source-secrete,tcgdex,pokekalos
+SET-PKT-A4b,A4b,A4b,A,pocket,Booster de Luxe ex,Deluxe Pack: ex,,2025-09-30,379,Deluxe,booster-de-luxe-ex,pokekalos,pokekalos
+SET-PKT-B1,B1,B1,B,pocket,Méga-Ascension,Mega Rising,,2025-10-30,331,"Mega Altaria, Mega Blaziken, Mega Gyarados",mega-ascension,tcgdex,pokekalos
+SET-PKT-PROMO-B,PROMO-B,P-B,B,pocket,Promo-B,Promo B,,2025-10-30,62,"B Series Vol. 1, B Series Vol. 2, B Series Vol. 3",promo-b,pokekalos,pokekalos
+SET-PKT-B1a,B1a,B1a,B,pocket,Embrasement Écarlate,Crimson Blaze,,2025-12-17,103,Crimson Blaze,embrasement-ecarlate,tcgdex,pokekalos
+SET-PKT-B2,B2,B2,B,pocket,Parade Onirique,Fantastical Parade,,2026-01-29,234,Gardevoir,parade-onirique,tcgdex,pokekalos
+SET-PKT-B2a,B2a,B2a,B,pocket,Merveilles de Paldea,Paldean Wonders,,2026-02-26,131,Paldean,merveilles-de-paldea,tcgdex,pokekalos
+SET-PKT-B2b,B2b,B2b,B,pocket,Méga-Rayonnement,Mega Shine,,2026-03-26,117,Mega Shine,mega-rayonnement,pokekalos,pokekalos
+SET-PKT-B3,B3,B3,B,pocket,Aura Palpitante,Pulsing Aura,,2026-04-28,234,Pulsing Aura,aura-palpitante,pokekalos,pokekalos
