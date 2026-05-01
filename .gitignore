@@ -1,0 +1,19 @@
+# Credentials
+config/service_account.json
+
+# Images scrapées — copyright
+assets/images/
+
+# Données brutes lourdes
+data/raw/
+
+# Logs papermill
+data/logs/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Fichiers Google Sheets locaux
+*.gsheet

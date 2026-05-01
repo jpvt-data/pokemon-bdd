@@ -1,0 +1,45 @@
+{
+  "sources": {
+    "primary": {
+      "name": "TCGdex API (FR natif)",
+      "base_url": "https://api.tcgdex.net/v2/fr",
+      "sets_endpoint": "/sets",
+      "cards_endpoint": "/cards",
+      "active": true
+    },
+    "secondary": {
+      "name": "flibustier/pokemon-tcg-pocket-database",
+      "base_url": "https://raw.githubusercontent.com/flibustier/pokemon-tcg-pocket-database/main/dist",
+      "sets_endpoint": "/sets.json",
+      "cards_endpoint": "/cards.extra.json",
+      "active": true,
+      "note": "Données techniques Pocket + images"
+    },
+    "tertiary": {
+      "name": "pokekalos.fr (FR officiel)",
+      "base_url": "https://www.pokekalos.fr",
+      "sets_endpoint": "/jeux/mobile/pocket/cartodex/extensions.html",
+      "active": true,
+      "note": "Source FR de référence — noms officiels FR sets et cartes"
+    },
+    "fallback": {
+      "name": "LimitlessTCG",
+      "base_url": "https://play.limitlesstcg.com",
+      "active": false,
+      "note": "Activer si toutes sources KO"
+    }
+  },
+  "pocket": {
+    "series": ["A", "B"],
+    "promo": ["PROMO-A", "PROMO-B"]
+  },
+  "output": {
+    "sets_master": "data/processed/sets_master.csv",
+    "cards_pocket": "data/processed/cards_pocket_fr.csv",
+    "cards_fr_en": "data/processed/cards_fr_en.csv",
+    "pokemon_master": "data/processed/pokemon_master.csv",
+    "images_pocket": "assets/images/pocket",
+    "images_tcg": "assets/images/tcg",
+    "images_pokemon": "assets/images/pokemon"
+  }
+}
